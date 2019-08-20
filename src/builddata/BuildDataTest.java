@@ -8,7 +8,7 @@ public class BuildDataTest {
     @Test
     public void test(){
         BuildData bd = new BuildData();
-        List<String> insertSQL = bd.getInsertSQL("INSERT INTO UserInfo VALUES(NULL,?,?,?,?,?,?)", 10000);
+        List<String> insertSQL = bd.getInsertSQL("INSERT INTO UserInfo VALUES(NULL,?,?,?,?,?,?)", 56);
         for (String s : insertSQL) {
             System.out.println(s);
         }

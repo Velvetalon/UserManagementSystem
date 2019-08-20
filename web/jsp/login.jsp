@@ -18,7 +18,7 @@
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- 引入 jQuery 依赖 -->
-    <script src="../js/jquery-1.8.3.min.js"></script>
+    <script src="../js/jquery-2.1.0.min.js"></script>
     <!-- 加载 Bootstrap JavaScript 插件 -->
     <script src="../js/bootstrap.min.js"></script>
     <link href="../css/SharedStyle.css" rel="stylesheet">
