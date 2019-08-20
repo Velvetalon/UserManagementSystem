@@ -2,6 +2,9 @@
 
 简易的用户信息管理系统。
 
+于buliddata.BulidData类中获取测试用数据。
+wop.sql中提供了建表语句。
+
 前端：bootstrap
 后端：tomcat+servlet
 
