@@ -1,5 +1,7 @@
 # UserManagementSystem
 
+简易的用户信息管理系统。
+
 前端：bootstrap
 后端：tomcat+servlet
 
