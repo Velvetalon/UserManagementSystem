@@ -1,7 +1,7 @@
 package dao;
 
+import org.junit.jupiter.api.Test;
 import user.userclass.AdminInfo;
-import org.testng.annotations.Test;
 
 public class DatabaseLoginTest {
     @Test

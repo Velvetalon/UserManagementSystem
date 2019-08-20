@@ -27,7 +27,7 @@
 
     <!-- 1. 导入CSS的全局样式 -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/jquery-1.8.3.min.js"></script>
     <script src="../js/bootstrap.min.js"></script>
 
     <script src="../js/add.js"></script>
